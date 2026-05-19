@@ -11,8 +11,8 @@ print(mess[-1])
 #name = "Rishu"
 #message = f"{gretting} {name.upper()} . Welcome to Python"
 #print(message)
-#print (dir(name))
-#print(help(name.upper))
+print (dir(name))
+print(help(name.upper))
 
 
 
