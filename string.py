@@ -1,3 +1,7 @@
-message = "Hello, World!"
-print(message)
-print(type(message))
+mess = "Hello World "
+mess.replace("World","INDIA")
+
+print(mess)
+
+
+
