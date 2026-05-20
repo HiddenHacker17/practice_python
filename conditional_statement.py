@@ -19,9 +19,29 @@ login=True
  #   print("Welcome")    
 
 
-list1= [1,2,3,4,5]
-list2= [1,2,3,4,5]
+#list1= [1,2,3,4,5]
+#list2= [1,2,3,4,5]
+#list2=list1
 #print(list1==list2) # this will give true bcz list1 and list2 have same value
-print(list1 is list2) # this will give false bcz list1 and list2 are different object in memory
-print(id(list1)) #for memory adress of a list in this case list 1
-print(id(list2))
+#print(list1 is list2) # this will give false bcz list1 and list2 are different object in memory
+#print(id(list1)) #for memory adress of a list in this case list 1
+#print(id(list2))
+
+
+
+#false value in python
+#None
+#False
+#0
+#any empty sequence like "",[],()
+#any empty mapping like{}
+
+
+
+
+
+condition ="Test"
+if condition:
+    print("condition is true")
+else:
+    print("condition is false")
