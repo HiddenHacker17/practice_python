@@ -52,6 +52,6 @@ numbers = [2, 3, 5, 7, 11, 13]
 #spliting and joining list
 
 course_str=" * ".join(courses)
-print(course_str)
+#print(course_str)
 new_list=course_str.split(" * ")
 print(new_list)
